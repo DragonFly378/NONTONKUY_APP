@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/NONTONKUY_APP/static/css/main.71fe0c80.css",
-    "main.js": "/NONTONKUY_APP/static/js/main.4ecccda6.js",
-    "static/media/boxicons.svg": "/NONTONKUY_APP/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
-    "static/media/footer-bg.jpg": "/NONTONKUY_APP/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
-    "static/media/boxicons.eot": "/NONTONKUY_APP/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/NONTONKUY_APP/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/NONTONKUY_APP/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/NONTONKUY_APP/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "static/media/tmovie.png": "/NONTONKUY_APP/static/media/tmovie.67797e942e59deb68592.png",
-    "index.html": "/NONTONKUY_APP/index.html",
-    "main.71fe0c80.css.map": "/NONTONKUY_APP/static/css/main.71fe0c80.css.map",
-    "main.4ecccda6.js.map": "/NONTONKUY_APP/static/js/main.4ecccda6.js.map"
+    "main.css": "/NONTONSKUY_APP/static/css/main.f8d9d420.css",
+    "main.js": "/NONTONSKUY_APP/static/js/main.48d17e38.js",
+    "static/media/boxicons.svg": "/NONTONSKUY_APP/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/NONTONSKUY_APP/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/NONTONSKUY_APP/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/NONTONSKUY_APP/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/NONTONSKUY_APP/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/NONTONSKUY_APP/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/NONTONSKUY_APP/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/NONTONSKUY_APP/index.html",
+    "main.f8d9d420.css.map": "/NONTONSKUY_APP/static/css/main.f8d9d420.css.map",
+    "main.48d17e38.js.map": "/NONTONSKUY_APP/static/js/main.48d17e38.js.map"
   },
   "entrypoints": [
-    "static/css/main.71fe0c80.css",
-    "static/js/main.4ecccda6.js"
+    "static/css/main.f8d9d420.css",
+    "static/js/main.48d17e38.js"
   ]
 }
